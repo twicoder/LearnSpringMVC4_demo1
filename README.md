@@ -1,1 +1,1 @@
-"Test" 
+This is a test project of Spring MVC 4 learned from Pluralsight.com
